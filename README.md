@@ -1,6 +1,6 @@
 # Lista de Compras com React e Tailwind
 
-## Uma simpels aplicação para a criação de listas de compras utilizando React e Tailwind.
+## Uma simples aplicação para a criação de listas de compras utilizando React e Tailwind.
 
 
 
