@@ -30,6 +30,6 @@
 > ### Excluindo um item:
 > - Pressione o ícone :x: no item para excluí-lo
 > ### Marcando um item no carrinho:
-> - Pressione o ícone :heavy_check_mark: no item para excluí-lo
+> - Pressione o ícone :heavy_check_mark: no item para marcá-lo
 > ### Exlcuindo a lista inteira
 > - Pressione o botão "Limpar lista" no canto inferior direito
