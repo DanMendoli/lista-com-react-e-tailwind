@@ -10,6 +10,10 @@
 
 ---
 
+### [ACESSE AQUI](https://minhalistadecompras.netlify.app/)
+
+---
+
 ![Screen](public/assets/images/misc/app-screen.png)
 
 ---
